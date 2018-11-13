@@ -18,6 +18,9 @@ GIPHY Search
   put it in JSX in <App /> using expression like {gifsItems}.
 * For css hover animation, choose to use transform: scale(1.2) and opacity of <p> text of ID.
 
+
+## Screenshot
+
 ## Available Scripts
 
 In the project directory, you can run:
